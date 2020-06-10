@@ -1,3 +1,11 @@
+## Rules
+
+* Resgister your account if you are new with newsapi org
+* Create .env file
+* Add your newsapi key in .env file
+* Happy Coding! 🌋🌋🌋
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
