@@ -10,10 +10,13 @@ News Website with React, Material-UI, NewsApi. Using functional component with h
 
 ### Installation
 
-- Access project directory on your terminal.
+* Access project directory on your terminal.
 
       npm install
-      
+
+* Create .env
+* Copy your private newsapi.org key and paste it in .env file
+
 ### Run Application
 
 - After you have installed npm package, open up terminal and type.
